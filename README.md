@@ -1,9 +1,11 @@
 #  Employee Salary Prediction Web Application
 
-A Machine Learning-powered web app that accurately predicts employee salaries based on inputs such as age, gender, education level, job title, and years of experience. Designed with a modern UI using **Streamlit**, and trained using regression techniques in **scikit-learn**.
-
 [![Kaggle Dataset](https://img.shields.io/badge/dataset-Kaggle-blue)](https://www.kaggle.com/datasets/rkiattisak/salaly-prediction-for-beginer)
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle_Notebook-Open-blue)](https://www.kaggle.com/code/roshians/employe-salary-prediction-using-ml)
+[![View Demo](https://img.shields.io/badge/Demo-Streamlit%20App-brightgreen?logo=streamlit)](https://employe-salary-prediction-using-ml.streamlit.app/)
+
+
+A Machine Learning-powered web app that accurately predicts employee salaries based on inputs such as age, gender, education level, job title, and years of experience. Designed with a modern UI using **Streamlit**, and trained using regression techniques in **scikit-learn**.
 
 ---
 
